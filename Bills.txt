@@ -1,0 +1,24 @@
+6301
+['Total price:', 1425.0]
+['Type of menu:', 'BBQ']
+['Type of service:', '     ']
+['Amount of customers:', '25.0']
+['Discount:', '5%', '= RM', 75.0]
+['Time:', '2017-01-09 16:25:32']
+	
+7339
+['Total price:', 2000.0]
+['Type of menu:', ' ']
+['Type of service:', 'Tent    ']
+['Amount of customers:', '0']
+['Discount:', ' ', '= RM', 0.0]
+['Time:', '2017-01-09 16:25:38']
+	
+6752
+['Total price:', 1425.0]
+['Type of menu:', 'BBQ']
+['Type of service:', '     ']
+['Amount of customers:', '25.0']
+['Discount:', '5%', '= RM', 75.0]
+['Time:', '2017-01-09 16:25:46']
+	
